@@ -1,0 +1,7 @@
+<c1>Rze<c1><c2>pka<c2>
+<c1>Za<c1><c2>sa<c2><c1>dzil<c1> <c2>dzia<c2><c1>dek<c1> <c2>rze<c2><c1>pke<c1> <c2>w<c2> <c1>o<c1><c2>gro<c2><c1>dzie,<c1>
+<c2>Cho<c2><c1>dzil<c1> <c2>te<c2> <c1>rze<c1><c2>pke<c2> <c1>o<c1><c2>gla<c2><c1>dac<c1> <c2>co<c2> <c1>dzien.<c1>
+<c2>Wy<c2><c1>ro<c1><c2>sla<c2> <c1>rze<c1><c2>pka<c2> <c1>je<c1><c2>drna<c2> <c1>i<c1> <c2>krze<c2><c1>pka,<c1>
+<c2>Schru<c2><c1>pac<c1> <c2>by<c2> <c1>rze<c1><c2>pke<c2> <c1>z<c1> <c2>ka<c2><c1>wa<c1><c2>lkiem<c2> <c1>chle<c1><c2>bka,<c2>
+<c1>Wiec<c1> <c2>cia<c2><c1>gnie<c1> <c2>rze<c2><c1>pke<c1> <c2>dzia<c2><c1>dek<c1> <c2>nie<c2><c1>bo<c1><c2>ze,<c2>
+<c1>Cia<c1><c2>gnie<c2> <c1>i<c1> <c2>cia<c2><c1>gnie,<c1> <c2>wy<c2><c1>cia<c1><c2>gnac<c2> <c1>nie<c1> 
